@@ -1,0 +1,23 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "LIRI app",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonfarthing/liri-node-app.git"
+  },
+  "keywords": [
+    "liri",
+    "app"
+  ],
+  "author": "NPM demo user <npm.demo.jasonfarthingisnow@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonfarthing/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/jasonfarthing/liri-node-app#readme"
+}
