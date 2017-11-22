@@ -39,7 +39,6 @@ var getMeSpotify = function (songName) {
                 console.log("error happened : ", error);
                 return;
             }
-            // console.log("I am song data", data)
             var songs = data.tracks.items
             console.log("-------------------------")
             console.log("Song name: ", songs[0].name)
